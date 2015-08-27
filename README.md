@@ -1,0 +1,2 @@
+# Flooding-Algorithms
+The purpose of this lab was to get familiar with the cnet simulator - to help look into implementing part of a routing protocol. The Cnet simulator enables development of and experimentation with a variety of data-link layer, network layer, and transport layer networking protocols in networks consisting of any combination of wide-area-networking (WAN), local-area-networking (LAN), or wireless-local-area-networking (WLAN) links. We only explored the routing layer. 
